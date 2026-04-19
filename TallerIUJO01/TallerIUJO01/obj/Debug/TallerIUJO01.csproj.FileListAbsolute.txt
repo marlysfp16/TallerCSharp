@@ -3,3 +3,8 @@ C:\Users\usuario\Documents\Taller Seccion A\TallerIUJO01\TallerIUJO01\bin\Debug\
 C:\Users\usuario\Documents\Taller Seccion A\TallerIUJO01\TallerIUJO01\bin\Debug\TallerIUJO01.pdb
 C:\Users\usuario\Documents\Taller Seccion A\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.exe
 C:\Users\usuario\Documents\Taller Seccion A\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.pdb
+C:\Users\Usuario\Downloads\Talleriujo\TallerCSharp\TallerIUJO01\TallerIUJO01\bin\Debug\TallerIUJO01.exe
+C:\Users\Usuario\Downloads\Talleriujo\TallerCSharp\TallerIUJO01\TallerIUJO01\bin\Debug\TallerIUJO01.pdb
+C:\Users\Usuario\Downloads\Talleriujo\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Talleriujo\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.exe
+C:\Users\Usuario\Downloads\Talleriujo\TallerCSharp\TallerIUJO01\TallerIUJO01\obj\Debug\TallerIUJO01.pdb
